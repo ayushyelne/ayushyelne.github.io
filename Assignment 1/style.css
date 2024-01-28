@@ -31,10 +31,6 @@ nav a:hover, a:active, a:focus{
     color: #AF9453;
 }
 
-#first-link {
-    color: #AF9453;
-}
-
 .logo {
     color: #AF9453;
     margin-left: 120px;
@@ -204,7 +200,6 @@ nav a:hover, a:active, a:focus{
     color: #fff;
     padding-top:35%;
     font-size: 30px;
-    /* margin-left: 50px; */
     height: 456px;
 }
 
